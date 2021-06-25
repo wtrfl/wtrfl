@@ -2,7 +2,7 @@
 - 👀 I’m interested in all types of development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing
-- 📫 Reach me in the Issues tab
+- 📫 Reach me on Discord: waterfall#7813
 
 <!---
 wtrfl/wtrfl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
